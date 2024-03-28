@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zanzotta
-- 👀 I’m interested in statistic
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in statistic 
+- 🌱 I’m currently statistics
 - 📫 How to reach me andrea.zanzottera@proton.me
 
 <!---
